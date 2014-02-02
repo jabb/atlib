@@ -1,0 +1,4 @@
+atlib
+=====
+
+roguelike utility library
